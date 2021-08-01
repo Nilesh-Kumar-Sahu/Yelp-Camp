@@ -1,0 +1,13 @@
+#delete-form {
+    display: inline;
+}
+
+#delete-btn{
+    padding-right: 30px; 
+    padding-left: 30px;
+}
+
+#edit-btn  {
+    padding-right: 30px; 
+    padding-left: 30px;
+}

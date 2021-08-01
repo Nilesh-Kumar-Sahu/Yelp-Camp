@@ -1,0 +1,25 @@
+##refactor the routes
+===============================================
+*Use Express router to recognize all routes
+
+##Campground authorization pt-2
+===============================================
+*foundCampground.author.id -- mongoose object
+*req.user._id -- string
+
+##Editing Comments=
+===============================================
+*Add Edit route for comments
+*Add edit button
+*Add update route
+=================
+Campground Edit Route-	 /campgrounds/:id/edit
+Comment Edit Route -	 /campgrounds/:id/comments/:comment_id/edit
+
+##Deleting Comments
+===============================================
+*Add Destroy route
+*Add Delete route
+==================
+Campground Destroy Route -/campgrounds/:id
+Comment Destroy Route	 -/campgrounds/:id/comments/:comment_id
